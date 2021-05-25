@@ -10,6 +10,8 @@ case 1: echo "Nathan is flikker;
 break;
 case 2: echo "Amos is flikker;
 break;
+case 3: echo "Anouk wat dou je nouhouuuu
+break;
 }
 ?>
 
