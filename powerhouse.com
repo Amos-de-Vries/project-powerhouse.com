@@ -1,3 +1,3 @@
 <?php
-echo "Amos is geen probleem!";
+echo "Amos is een probleem!";
 ?>
