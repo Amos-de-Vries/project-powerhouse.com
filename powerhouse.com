@@ -12,3 +12,7 @@ case 2: echo "Amos is flikker;
 break;
 }
 ?>
+
+<html>
+<p><b><u><i>nathan is een grote flikker</i></u></b></p>
+</html>
