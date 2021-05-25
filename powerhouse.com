@@ -1,7 +1,7 @@
 <?php
 echo "Amos is geen probleem!";
 
-$random=rand(0,10);
+$random=rand(0,3);
 
 switch($random){
 case 0: echo "Samir is flikker;
